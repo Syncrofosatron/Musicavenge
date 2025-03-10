@@ -21,7 +21,7 @@ To get the API key for YouTube:
 
 8. You will see various apps, find YouTube and then click on it:
 
-![enable](https://github.com/user-attachments/assets/eba7dd60-24d5-4080-91e1-d88ce3f5f684)
+![yt](https://github.com/user-attachments/assets/549ab059-4c53-444e-8722-c33a7001bdcd)
 
 10. Then simply click on "Enable".
 
