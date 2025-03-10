@@ -27,6 +27,7 @@ To get the API key for YouTube:
 
 ![image](https://github.com/user-attachments/assets/72bee5e3-c526-40e1-8311-48e38fd67eab)
 
+-----
 
 To get the Telegram bot token:
 1. https://t.me/BotFather - This is the bot that will help you to create other Telegram bots.
