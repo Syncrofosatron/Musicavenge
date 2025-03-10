@@ -1,8 +1,13 @@
-(Author: Neeraj Mishra [nmcnemis@gmail.com] with GPT code assist).
+[Author: Neeraj Mishra (nmcnemis@gmail.com) with GPT code assist].
 
-# Musicavenge
+# MUSICAVENGE
 Musicavenge (Music Scavenger): A Telegram bot which returns YouTube music videos for the searched query using chat.
 
+![tel](https://github.com/user-attachments/assets/6b3c6e68-2b04-4947-8c27-29feacaa24d4)
+
+### INSTRUCTIONS
+
+##### REQUIRED PYTHON LIBRARIES
 To install the required libraries for the python code, execute the following commands:
 ```python
 pip install telegram
@@ -10,6 +15,8 @@ pip install python-telegram-bot
 ```
 
 -----
+
+##### GETTING THE YOUTUBE API AND TELEGRAM BOT TOKEN
 
 To get the API key for YouTube:
 1. Make sure you are logged in and then go to https://console.developers.google.com/.
