@@ -23,7 +23,7 @@ To get the API key for YouTube:
 
 6. Then go to "Enabled APIs & Services":
 
-![cred](https://github.com/user-attachments/assets/8b9bb4ee-87d9-44d3-a6e2-897d4d68fa34)
+![api](https://github.com/user-attachments/assets/12c3501c-b7d8-4a19-901d-f37581984580)
 
    And click on the button:
    
