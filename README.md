@@ -57,6 +57,6 @@ To get the Telegram bot token:
 ![bot](https://github.com/user-attachments/assets/68eb16c5-5051-4b4c-bee9-ef5671cf3aae)
 
 -----
-Icons by https://icons8.com/
+###### Icons by https://icons8.com/
 -----
 Made with ❤
