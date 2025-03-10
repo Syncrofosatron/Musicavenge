@@ -1,7 +1,7 @@
 [Author: Neeraj Mishra (nmcnemis@gmail.com) with GPT code assist].
 
 # MUSICAVENGE
-###### Musicavenge (Music Scavenger): A Telegram bot which returns YouTube music videos for the searched query using chat.
+**###### Musicavenge (Music Scavenger): A Telegram bot which returns YouTube music videos for the searched query using chat.**
 
 ![tel](https://github.com/user-attachments/assets/6b3c6e68-2b04-4947-8c27-29feacaa24d4)
 
