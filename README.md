@@ -18,7 +18,7 @@ pip install python-telegram-bot
 
 ##### GETTING THE YOUTUBE API AND TELEGRAM BOT TOKEN
 
-https://img.icons8.com/?size=100&id=13983&format=png&color=000000
+![icons8-youtube-48](https://github.com/user-attachments/assets/488f6948-141f-4cdd-818e-9a4b62d95323)
 
 To get the API key for YouTube:
 1. Make sure you are logged in and then go to https://console.developers.google.com/.
@@ -48,7 +48,7 @@ To get the API key for YouTube:
 
 -----
 
-https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000
+![icons8-telegram-48](https://github.com/user-attachments/assets/39a06a2d-1894-4496-8a85-db4cdcf61cc3)
 
 To get the Telegram bot token:
 1. https://t.me/BotFather - This is the bot that will help you to create other Telegram bots.
@@ -57,5 +57,6 @@ To get the Telegram bot token:
 ![bot](https://github.com/user-attachments/assets/68eb16c5-5051-4b4c-bee9-ef5671cf3aae)
 
 -----
-
+Icons by https://icons8.com/
+-----
 Made with ❤
