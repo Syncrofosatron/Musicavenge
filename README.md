@@ -6,6 +6,9 @@
 ![tel](https://github.com/user-attachments/assets/6b3c6e68-2b04-4947-8c27-29feacaa24d4)
 
 -----
+##### NOTE: The main file to work with is: Musicavenge.py.
+Musicavenge-with-encryption.py I made as I was just curious about encryption, basically it just takes the query (the message that user type to the bot) and encrypts it. Note: Now, the ```update.message.text``` seems to be read-only, as when I tried store the encrypted query to this, it gave error as: ```caused error Attribute text of class Message can't be set!```
+-----
 
 ### INSTRUCTIONS
 
