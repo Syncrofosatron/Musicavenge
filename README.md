@@ -22,37 +22,39 @@ pip install python-telegram-bot
 ##### GETTING THE YOUTUBE API AND TELEGRAM BOT TOKEN
 
 ![icons8-youtube-48](https://github.com/user-attachments/assets/488f6948-141f-4cdd-818e-9a4b62d95323)
-   Steps to get the API for YouTube.
+
+Steps to get the API for YouTube.
 
 1. Make sure you are logged in and then go to https://console.developers.google.com/.
 2. Go to Credentials as follows:
 
-![image](https://github.com/user-attachments/assets/6c684fd2-6fc1-48db-8b46-bdaeccc3ec73)
+   ![image](https://github.com/user-attachments/assets/6c684fd2-6fc1-48db-8b46-bdaeccc3ec73)
 
 4. Go to "Create Credentials > API key" and create your key, you can rename it as per your requirements:
 
-![cred](https://github.com/user-attachments/assets/414c8961-2c91-4493-8c88-63b7ad2b3e11)
+   ![cred](https://github.com/user-attachments/assets/414c8961-2c91-4493-8c88-63b7ad2b3e11)
 
 6. Then go to "Enabled APIs & Services":
 
-![api](https://github.com/user-attachments/assets/12c3501c-b7d8-4a19-901d-f37581984580)
+   ![api](https://github.com/user-attachments/assets/12c3501c-b7d8-4a19-901d-f37581984580)
 
    And click on the button:
    
-![enable](https://github.com/user-attachments/assets/699b974f-495b-4231-a3f0-b2de9c715b88)
+   ![enable](https://github.com/user-attachments/assets/699b974f-495b-4231-a3f0-b2de9c715b88)
 
 8. You will see various apps, find YouTube and then click on it:
 
-![yt](https://github.com/user-attachments/assets/549ab059-4c53-444e-8722-c33a7001bdcd)
+   ![yt](https://github.com/user-attachments/assets/549ab059-4c53-444e-8722-c33a7001bdcd)
 
 10. Then simply click on "Enable".
 
-![image](https://github.com/user-attachments/assets/72bee5e3-c526-40e1-8311-48e38fd67eab)
+   ![image](https://github.com/user-attachments/assets/72bee5e3-c526-40e1-8311-48e38fd67eab)
 
 -----
 
 ![icons8-telegram-48](https://github.com/user-attachments/assets/39a06a2d-1894-4496-8a85-db4cdcf61cc3)
-   Steps to get the bot token for Telegram.
+
+Steps to get the bot token for Telegram.
 
 1. https://t.me/BotFather - This is the bot that will help you to create other Telegram bots.
 2. Follow the following steps:
