@@ -13,12 +13,14 @@ To install the required libraries for the python code, execute the following com
 pip install telegram
 pip install python-telegram-bot
 ```
-You will also need to get the API for YouTube and the bot token from BotFather for Telegram (instructions are given below).
+##### You will also need to get the API for YouTube and the bot token from BotFather for Telegram (instructions are given below).
+
 -----
 
 ##### GETTING THE YOUTUBE API AND TELEGRAM BOT TOKEN
 
-Steps to get the API for ![icons8-youtube-48](https://github.com/user-attachments/assets/488f6948-141f-4cdd-818e-9a4b62d95323)
+![icons8-youtube-48](https://github.com/user-attachments/assets/488f6948-141f-4cdd-818e-9a4b62d95323)
+Steps to get the API for YouTube.
 
 1. Make sure you are logged in and then go to https://console.developers.google.com/.
 2. Go to Credentials as follows:
@@ -47,7 +49,8 @@ Steps to get the API for ![icons8-youtube-48](https://github.com/user-attachment
 
 -----
 
-Steps to get the bot token for ![icons8-telegram-48](https://github.com/user-attachments/assets/39a06a2d-1894-4496-8a85-db4cdcf61cc3)
+![icons8-telegram-48](https://github.com/user-attachments/assets/39a06a2d-1894-4496-8a85-db4cdcf61cc3)
+Steps to get the bot token for Telegram.
 
 1. https://t.me/BotFather - This is the bot that will help you to create other Telegram bots.
 2. Follow the following steps:
