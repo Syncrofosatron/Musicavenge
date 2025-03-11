@@ -46,7 +46,7 @@ Steps to get the API for YouTube.
 
    ![yt](https://github.com/user-attachments/assets/549ab059-4c53-444e-8722-c33a7001bdcd)
 
-10. Then simply click on "Enable".
+10. Then simply click on "Enable":
 
    ![image](https://github.com/user-attachments/assets/72bee5e3-c526-40e1-8311-48e38fd67eab)
 
