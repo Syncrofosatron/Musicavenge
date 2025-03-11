@@ -30,11 +30,11 @@ Steps to get the API for YouTube.
 
    ![image](https://github.com/user-attachments/assets/6c684fd2-6fc1-48db-8b46-bdaeccc3ec73)
 
-4. Go to "Create Credentials > API key" and create your key, you can rename it as per your requirements:
+3. Go to "Create Credentials > API key" and create your key, you can rename it as per your requirements:
 
    ![cred](https://github.com/user-attachments/assets/414c8961-2c91-4493-8c88-63b7ad2b3e11)
 
-6. Then go to "Enabled APIs & Services":
+4. Then go to "Enabled APIs & Services":
 
    ![api](https://github.com/user-attachments/assets/12c3501c-b7d8-4a19-901d-f37581984580)
 
@@ -42,11 +42,11 @@ Steps to get the API for YouTube.
    
    ![enable](https://github.com/user-attachments/assets/699b974f-495b-4231-a3f0-b2de9c715b88)
 
-8. You will see various apps, find YouTube and then click on it:
+5. You will see various apps, find YouTube and then click on it:
 
    ![yt](https://github.com/user-attachments/assets/549ab059-4c53-444e-8722-c33a7001bdcd)
 
-9. Then simply click on "Enable":
+6. Then simply click on "Enable":
 
    ![image](https://github.com/user-attachments/assets/72bee5e3-c526-40e1-8311-48e38fd67eab)
 
