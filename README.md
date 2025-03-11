@@ -49,7 +49,8 @@ Steps to get the API for YouTube.
 10. Then simply click on "Enable":
 
    ![image](https://github.com/user-attachments/assets/72bee5e3-c526-40e1-8311-48e38fd67eab)
-   
+
+  ###### And like this you will have your YouTube API. ✔
 -----
 
 ![icons8-telegram-48](https://github.com/user-attachments/assets/39a06a2d-1894-4496-8a85-db4cdcf61cc3)
@@ -59,7 +60,9 @@ Steps to get the bot token for Telegram.
 1. https://t.me/BotFather - This is the bot that will help you to create other Telegram bots.
 2. Follow the following steps:
 
-![bot](https://github.com/user-attachments/assets/68eb16c5-5051-4b4c-bee9-ef5671cf3aae)
+   ![bot](https://github.com/user-attachments/assets/68eb16c5-5051-4b4c-bee9-ef5671cf3aae)
+
+###### And like this you will have your Telegram bot token. ✔
 
 -----
 ###### Icons by https://icons8.com/
