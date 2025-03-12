@@ -10,7 +10,8 @@
 
 #### ⚠ The main file to work with is: ```Musicavenge.py```.
 
-#### ⚠ ```Musicavenge-with-encryption.py``` I made as I was just curious about encryption, basically it just takes the query (the message that user type to the bot) and encrypts it. Note: Now, the ```update.message.text``` seems to be read-only, as when I tried store the encrypted query to this, it gave error as: ```caused error Attribute text of class Message can't be set!```
+#### ⚠ ```Musicavenge-with-encryption.py``` I made as I was just curious about encryption, basically it just takes the query (the message that user type to the bot) and encrypts it.
+#### Note: Now, the ```update.message.text``` seems to be read-only, as when I tried overwrite it with the encrypted one, it gave error as: ```caused error Attribute text of class Message can't be set!```
 #### So it feels kinda unnecessary to encrypt as it can still be seen by ```update.message.text```.
 
 -----
